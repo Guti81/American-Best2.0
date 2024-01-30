@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+    height: 75%;
+    background-size: 640px 320px;
+    background-position: center;
+    background-image: linear gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75))(url(../ABWeB/Pictures/Background1.jpg))
+}
